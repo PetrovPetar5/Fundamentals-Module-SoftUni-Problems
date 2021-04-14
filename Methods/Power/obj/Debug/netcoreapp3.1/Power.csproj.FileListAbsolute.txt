@@ -1,0 +1,13 @@
+C:\Users\petur\source\repos\Methods\Power\bin\Debug\netcoreapp3.1\Power.exe
+C:\Users\petur\source\repos\Methods\Power\bin\Debug\netcoreapp3.1\Power.deps.json
+C:\Users\petur\source\repos\Methods\Power\bin\Debug\netcoreapp3.1\Power.runtimeconfig.json
+C:\Users\petur\source\repos\Methods\Power\bin\Debug\netcoreapp3.1\Power.runtimeconfig.dev.json
+C:\Users\petur\source\repos\Methods\Power\bin\Debug\netcoreapp3.1\Power.dll
+C:\Users\petur\source\repos\Methods\Power\bin\Debug\netcoreapp3.1\Power.pdb
+C:\Users\petur\source\repos\Methods\Power\obj\Debug\netcoreapp3.1\Power.csprojAssemblyReference.cache
+C:\Users\petur\source\repos\Methods\Power\obj\Debug\netcoreapp3.1\Power.csproj.CoreCompileInputs.cache
+C:\Users\petur\source\repos\Methods\Power\obj\Debug\netcoreapp3.1\Power.AssemblyInfoInputs.cache
+C:\Users\petur\source\repos\Methods\Power\obj\Debug\netcoreapp3.1\Power.AssemblyInfo.cs
+C:\Users\petur\source\repos\Methods\Power\obj\Debug\netcoreapp3.1\Power.dll
+C:\Users\petur\source\repos\Methods\Power\obj\Debug\netcoreapp3.1\Power.pdb
+C:\Users\petur\source\repos\Methods\Power\obj\Debug\netcoreapp3.1\Power.genruntimeconfig.cache
