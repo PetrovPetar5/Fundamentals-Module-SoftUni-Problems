@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TqRR67NZH6q5JGUtHLcRcvHFiNYrbRQ/QUv3hIyxZBYyNlHzVXqDOwluDD2PXqFgym9EAJY3u22TA52LDOXCqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Downloads\\Methods\\Methods\\Orders\\Orders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
